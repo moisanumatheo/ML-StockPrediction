@@ -16,6 +16,7 @@ Installation
 Clone this repository:
 
 git clone https://github.com/your-username/ML-StockPrediction.git
+
 cd Stock_Prediction
 
 Create a virtual environment and install dependencies:
